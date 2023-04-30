@@ -8,4 +8,4 @@ There are 2 datasets, MovieLens and Douban, and you may choose ANY ONE of them f
 
 ## My Work
 
-The [implementation](./MyMovieLens.ipynb) (Based on MovieLens dataset and the [code template](./code-template/MovieLens.ipynb)) and the [report](./report.md) for the project.
+The [implementation](./main.ipynb) (Based on MovieLens dataset and the [code template](./code-template/MovieLens.ipynb)) and the [report](./report.md) for the project.
